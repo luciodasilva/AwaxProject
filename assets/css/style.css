@@ -21,10 +21,10 @@ header {
     align-items: center;
 }
 .logoimg {
-    width:80px;
-    height:80px;
-    background-color:#B28756;
-    border-radius:40px;
+    height:80px; 
+}
+.logoimg img {
+    height:inherit; 
 }
 .logo {
     width:100px;
@@ -73,6 +73,9 @@ header {
     padding: 10px 30px;
     margin-top:30px;
     border-radius:20px;
+}
+.button:hover {
+    background-color: #775732;
 }
 .banner {
     height:calc(100vh - 100px);
