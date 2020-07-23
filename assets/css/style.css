@@ -998,6 +998,7 @@ footer {
         margin-right:30px;
         text-align:center;
         background-color:none;
+        border-radius:17px;
     }
     .section-projects--filters li:nth-last-child(3) {
         border-left:0;
