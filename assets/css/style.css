@@ -847,6 +847,10 @@ footer {
         border:0;
         color:#B28756;
     }
+    .banner { 
+        height:100vh;
+    }
+
     .section-projects--filters {
         text-align:center;
     }
