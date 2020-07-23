@@ -301,7 +301,7 @@ footer {
 .section-projects--filters {
     border:1px solid #CCC;
     background-color:#EEE;
-    border-radius:30px;
+    border-radius:13px;
     display:inline-block;
     padding:0px 10px;
 }
@@ -818,8 +818,8 @@ footer {
     }
     .menu-opener {
         display:block;
-        width:40px;
-        margin-right:40px;
+        font-size:30px;
+        margin-right:30px;
     }
     nav {
         display:block;
@@ -852,11 +852,9 @@ footer {
     }
     .section-projects--filters li:nth-child(1) {
         border-left:0;
-        border-bottom-left-radius:17px;
     }
     .section-projects--filters li:nth-last-child(1) {
         border-right:0;
-        border-bottom-right-radius:17px;
     }
     .section-aboutus {
         flex-direction:column;
@@ -932,8 +930,8 @@ footer {
     }
     .menu-opener {
         display:block;
-        width:35px;
-        margin-right:40px;
+        font-size:35px;
+        margin-right:30px;
     }
     nav {
         display:none;
@@ -1008,11 +1006,9 @@ footer {
     }
     .section-projects--filters li:nth-last-child(3) {
         border-left:0;
-        border-bottom-left-radius:17px;
     }
     .section-projects--filters li:nth-last-child(1) {
         border-right:0;
-        border-bottom-right-radius:17px;
     }
     .section-projects--photo {
         width:320px;
