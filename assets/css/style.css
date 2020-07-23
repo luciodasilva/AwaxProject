@@ -1004,6 +1004,9 @@ footer {
         border-left:0;
         border-radius:17px;
     }
+    .section-projects--filters li:nth-last-child(1) {
+        border-right:0;
+        border-radius:17px;
     .section-projects--photo {
         width:320px;
     }
