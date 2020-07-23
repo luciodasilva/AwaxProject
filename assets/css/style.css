@@ -460,9 +460,6 @@ footer {
 }
 
 
-
-
-
 .testimonials .section-body {
     max-width:initial;
 }
@@ -959,6 +956,7 @@ footer {
         margin-left:30px;
         border:0;
     }
+    .menu li a:hover,
     .menu li.active a {
         border:0;
         color:#B28756;
